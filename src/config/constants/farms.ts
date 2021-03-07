@@ -222,6 +222,7 @@ const farms: FarmConfig[] = [
       97: '',
       56: '0x18288d40b0826Df44A97eDaaaAC9e9C81ccc76e4', // BNB-BUSD LP
     },
+
     tokenSymbol: 'WBNB',
     tokenAddresses: {
       97: '',
